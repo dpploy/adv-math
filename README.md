@@ -9,7 +9,7 @@ This site collects information on advanced mathematics used in the graduate prog
 This repository uses Jupyter Notebooks and future examples will use the Python programming language when necessary. The content can be accessed in
 the following ways:
 + Static HTML version of the notebooks will be displayed on the current browser if a 
-notebook file listed in the code repository, `notebook/` is clicked on. This will not allow for rendering mathematical formulae. Alternatively you can render the notebooks on [NBViewer](http://nbviewer.jupyter.org/) by **clicking on the [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/chen-3170/tree/master/notebooks/) badge above**.
+notebook file listed in the code repository, `notebook/` is clicked on. This will not allow for rendering mathematical formulae. Alternatively you can render the notebooks on [NBViewer](http://nbviewer.jupyter.org/) by **clicking on the [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/adv-math/tree/master/notebooks/) badge above**.
 + Click on the `Azure Notebooks|launch` above to use the Azure Notebook service; this is practical since you can use your UMass Lowell credentials to login into the site and use the GitHub upload option to clone the repository in your account.
 + Click on the `launch/binder` badge above to launch a Jupyter Notebook server for the
 course notebooks. There will be a delay for the Binder cloud server to build a 
