@@ -15,10 +15,10 @@ the following ways:
 notebook file listed in the code repository, `notebook/` is clicked on. This will not allow for rendering mathematical formulae. Alternatively you can render the notebooks on [NBViewer](http://nbviewer.jupyter.org/) by **clicking on the [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/dpploy/adv-math/tree/master/notebooks/) badge above**.
 + Click on the `Azure Notebooks|launch` above to use the Azure Notebook service; this is practical since you can use your UMass Lowell credentials to login into the site and use the GitHub upload option to clone the repository in your account.
 + Click on the `launch/binder` badge above to launch a Jupyter Notebook server for the
-course notebooks. There will be a delay for the Binder cloud server to build a 
+notebooks. There will be a delay for the Binder cloud server to build a 
 Python (Anaconda) programming environment for you. However once it is done, it will 
 start a Jupyter Notebook server on your web browser with all notebooks listed. Upon 
-clicking on individual notebook files, you will access the live course notebooks.
+clicking on individual notebook files, you will access the live notebooks.
 + Use the green `download` button above on the right upper side of the page and download a ZIP archive to your local machine. Unzip the archive. Then use your own Jupyter Notebook server to navigate to the directory created by the unzip operation and upload the notebook files. In this case the files will not be updated and you will need to return to the repository for getting new files or updated versions of previously downloaded files.
 
 This repository is in development. Please email me with questions.\
