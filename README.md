@@ -8,7 +8,7 @@
    + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Program)
    + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
 
-This site collects information on advanced mathematics used in the graduate program of nuclear chemical engineering. The goal is to provide guidance for graduate students preparing for the Ph.D. written qualifying exam in the nuclear option. 
+This site collects information on advanced mathematics used in the graduate program of nuclear chemical engineering. The goal is to provide guidance for graduate students preparing for the Ph.D. written qualifying exam in the nuclear engineering option. 
 
 This repository uses Jupyter Notebooks and future examples will use the Python programming language when necessary. The content can be accessed in
 the following ways:
